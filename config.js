@@ -38,7 +38,7 @@ global.APIKeys = {
 
 // Other
 global.owner = ['6285641476033','']
-global.premium = ['628564146033','6285641476033']
+global.premium = ['6285641476033','6285641476033']
 global.botname = 'X-ZC'
 global.ownername = 'X'
 global.group1 = 'http://tiny.cc/X-ZC'
